@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467064241116",
+    "project_id": "quiz-ba804",
+    "storage_bucket": "quiz-ba804.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467064241116:android:f55f8605188adbc499ad19",
+        "android_client_info": {
+          "package_name": "com.example.quiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlGrRJo6TwIHFRhCiHCJhXnF_Fv6PzSew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
